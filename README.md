@@ -34,26 +34,29 @@ The folder number corresponds to the action classes of
 Selected examples are shown in below.
 
 #### Eating
-<div class="video_container">
-  <video controls="controls" allowfullscreen="true" >
-    <source src="image_and_video/eating.mp4" type="video/mp4">
-  </video> 
-</div>
-
-#### Smoking
-<div class="video_container">
-  <video controls="controls" allowfullscreen="true" >
-    <source src="image_and_video/smoking.mp4" type="video/mp4">
-  </video> 
-</div>
-
+<p align="center">
+    <img src="image_and_video/eating1.gif", width="360">
+     <img src="image_and_video/eating2.gif", width="360">
+    <br>
+    <sup>Eating</sup>
+</p>
 
 #### Greeting
-<div class="video_container">
-  <video controls="controls" allowfullscreen="true" >
-    <source src="image_and_video/greeting.mp4" type="video/mp4">
-  </video> 
-</div>
+<p align="center">
+    <img src="image_and_video/greeting1.gif", width="360">
+    <img src="image_and_video/greeting2.gif", width="360">
+    <br>
+    <sup>Greeting</sup>
+</p>
+
+#### Smoking
+<p align="center">
+    <img src="image_and_video/smoking1.gif", width="360">
+     <img src="image_and_video/smoking2.gif", width="360">
+    <br>
+    <sup>Smoking</sup>
+</p>
+
 
 
 ## Prerequesites
