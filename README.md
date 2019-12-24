@@ -62,5 +62,5 @@ Selected examples are shown in below.
 ## Prerequesites
 Tested under Ubuntu 16.04 and 18.04 LTS with Tensorflow 1.8.0 or higher version
 
-##Acknowledgement
+## Acknowledgement
 Thanks for the author of "Deep Video Generation, Prediction and Completion of Human Action Sequences" provide their code.
